@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/Users/sunny/workspace/seleExam"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.711">
+  <properties />
+  
+  
+            <testcase name="getValidatInformation" time="1.711" classname="test.com.ValidationInformation" />
+      
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/sunny/workspace/seleExam">
+        <classes>
+            <!--class name="WindowSize" >
+                <methods>
+                    <include name="changeWindowSize" />
+                </methods>
+            </class>
+            <class name="ValidationInformation" /-->
+            <!--class name="com.test.ElementOperationEmail" /-->
+
+            <!--class name="com.test.CheckBox" /-->
+            <!--class name="com.test.WindowSwitch" /-->
+            <!--class name="com.test.AlertHandle" /-->
+            <class name="com.test.CookieOperation" />
+
+        </classes>
+    </test>
+</suite>

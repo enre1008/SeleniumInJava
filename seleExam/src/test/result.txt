@@ -1,0 +1,34 @@
+this is a test百度一下，你就知道this is a test百度一下，你就知道this is a test
+百度一下，你就知道
+this is a test
+百度一下，你就知道
+this is a test
+百度一下，你就知道
+https://www.baidu.com/
+百度一下，你就知道
+CDwindow-5279F3DEE20A814AB11A084B1A5CFB23
+2108763062
+getCurrentUrl: https://www.baidu.com/
+getTitle: 百度一下，你就知道
+getWindowHandle: CDwindow-54DD58D4D56B35FF8376DEE5BE9405E0
+hashCode: 1665197552
+
+getCurrentUrl: https://www.baidu.com/
+getTitle: 百度一下，你就知道
+getWindowHandle: CDwindow-351A9DCF1E8CCD8A6DB9EFC695CEFF45
+hashCode: 1101048445
+
+getCurrentUrl: https://www.baidu.com/
+getTitle: 百度一下，你就知道
+getWindowHandle: CDwindow-B2763C816A5221E101C597146DB92D09
+hashCode: 303240439
+
+getCurrentUrl: https://www.baidu.com/
+getTitle: 百度一下，你就知道
+getWindowHandle: CDwindow-57F8971B1D41857B8B85462E66C6FBB4
+hashCode: 664070838
+
+getCurrentUrl: https://www.baidu.com/
+getTitle: 百度一下，你就知道
+getWindowHandle: CDwindow-66C3D9AC625476B3DFEA14B9FF054B98
+hashCode: 1665197552

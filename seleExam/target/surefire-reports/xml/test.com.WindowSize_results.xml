@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/Users/sunny/workspace/seleExam"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.919">
+  <properties />
+  
+  
+            <testcase name="changeWindowSize" time="5.919" classname="test.com.WindowSize" />
+      
+</testsuite>
